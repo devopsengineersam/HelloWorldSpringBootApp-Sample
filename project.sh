@@ -2,3 +2,4 @@
 
 echo "The project is complete"
 hostname
+uname -a
