@@ -1,5 +1,5 @@
 #!/bin/bash
 
-# sample project
+# sample project wd
 
 hostname
