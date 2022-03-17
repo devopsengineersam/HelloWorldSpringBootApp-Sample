@@ -1,5 +1,5 @@
 #!/bin/bash
 
-# sample project wd
+# sample project wd sdff
 
 hostname
